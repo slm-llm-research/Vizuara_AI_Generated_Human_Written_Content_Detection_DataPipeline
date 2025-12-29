@@ -1,0 +1,24 @@
+
+Abstracts : https://huggingface.co/datasets/gfissore/arxiv-abstracts-2021/viewer/default/train?row=0
+
+Books : https://github.com/salesforce/booksum?tab=readme-ov-file
+
+Poetry : https://hci-lab.github.io/LearningMetersPoems/
+
+Reddit : https://www.tensorflow.org/datasets/catalog/reddit
+
+Reviews : https://huggingface.co/datasets/stanfordnlp/imdb/viewer/plain_text/train?views%5B%5D=train&row=5
+
+
+Wikipedia : https://huggingface.co/datasets/wikimedia/wikipedia
+
+
+
+
+datasets left to download : 
+
+books, News
+, Recipes
+Reddit posts
+Reviews
+Wiki
